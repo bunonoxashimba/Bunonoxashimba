@@ -41,7 +41,7 @@
 
 ## 📌 Featured Projects
 
-### 🎓 [UWC CAM Champion](https://github.com/bunonoxashimba/uwc-cam-champion)
+### 🎓 [UWC CAM Champion](https://github.com/ashleynkuna33/uwc-cam-champion)
 
 A full-stack web application designed to help university students monitor academic performance and calculate their Course Average Mark (CAM).
 
