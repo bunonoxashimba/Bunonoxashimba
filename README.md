@@ -10,6 +10,16 @@
 
 ## 🛠️ Tech Stack
 
+## 📊 GitHub Statistics
+
+![Bunono's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunonoxashimba&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bunonoxashimba&layout=compact&theme=github_dark)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bunonoxashimba&theme=github-dark)
+
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +51,8 @@
 
 ## 📌 Featured Projects
 
-### 🎓 UWC CAM Champion
+### 🎓 [UWC CAM Champion](https://github.com/bunonoxashimba/uwc-cam-champion)
+
 A full-stack web application designed to help university students monitor academic performance and calculate their Course Average Mark (CAM).
 
 ### 🛒 Smart Comparer
