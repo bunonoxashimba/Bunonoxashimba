@@ -57,7 +57,7 @@ A web application that enables users to compare product prices across South Afri
 ## 📫 Connect with Me
 
 - 📧 Email: csxashimbab@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn once it's ready)*
+- 💼 LinkedIn: https://www.linkedin.com/in/bunono-xashimba-5070a4318/
 
 ---
 
