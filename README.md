@@ -45,7 +45,7 @@
 
 A full-stack web application designed to help university students monitor academic performance and calculate their Course Average Mark (CAM).
 
-### 🛒 Smart Comparer
+### 🛒 [Smart Comparer](https://github.com/Kuthula-L/Smart-comparer)
 A web application that enables users to compare product prices across South African retailers, helping them make informed purchasing decisions.
 
 ---
